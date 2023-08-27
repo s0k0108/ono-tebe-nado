@@ -1,1 +1,1 @@
-Проект Оно тебе надо.
+https://github.com/s0k0108/ono-tebe-nado
