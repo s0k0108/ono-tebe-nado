@@ -37,9 +37,9 @@
 @import url('./blocks/card-link/card-link.css');
 
 @import url('./blocks/card/card.css');
-@import url('./blocks/card/_type_film/card_type_film.css');
-@import url('./blocks/card/_type_film/card_type_book.css');
-@import url('./blocks/card/_type_film/card_type_picture.css');
+@import url('blocks/card/_type/card_type_film.css');
+@import url('blocks/card/_type/card_type_book.css');
+@import url('blocks/card/_type/card_type_picture.css');
 @import url('./blocks/card/__title/card__title.css');
 @import url('./blocks/card/__text/card__text.css');
 

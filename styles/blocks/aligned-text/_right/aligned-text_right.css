@@ -1,5 +1,6 @@
 .aligned-text_right {
-    margin: 245px 0 0;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
+    align-self: end;
 }
