@@ -1,0 +1,9 @@
+.footer__social-list {
+    margin: 3px 0 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    min-width: 240px;
+    gap: 48px;
+    list-style: none;
+}

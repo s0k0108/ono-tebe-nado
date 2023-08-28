@@ -1,0 +1,12 @@
+.cover {
+    box-sizing: border-box;
+    padding: 175px 50px 50px;
+    width: 100%;
+    background-image: url("../../../images/cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1005px auto;
+    column-gap: 78px;
+}

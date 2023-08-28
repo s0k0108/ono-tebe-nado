@@ -1,0 +1,13 @@
+.cover__description-text {
+    margin: 13px 0 0;
+    padding: 0;
+    font-size: 22px;
+    line-height: 127%;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #fff;
+    justify-self: end;
+    z-index: 2;
+    word-spacing: 17px;
+}

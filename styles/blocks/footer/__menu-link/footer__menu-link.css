@@ -1,0 +1,12 @@
+.footer__menu-link {
+    margin: 0;
+    padding: 0 0 1px;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+}

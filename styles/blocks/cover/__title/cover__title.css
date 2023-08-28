@@ -1,0 +1,17 @@
+.cover__title {
+    margin: 0 0 135px;
+    padding: 0;
+    box-sizing: border-box;
+    grid-column: 1/3;
+    color: #fff;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 30px;
+    z-index: 2;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

@@ -1,0 +1,8 @@
+.header {
+    margin: 0;
+    padding: 92px 50px 96px;
+    box-sizing: border-box;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 2fr 1fr;
+}

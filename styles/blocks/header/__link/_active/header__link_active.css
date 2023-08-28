@@ -1,0 +1,7 @@
+.header__link_active {
+    border-bottom: none;
+}
+
+.header__link_active::before {
+    display: none;
+}

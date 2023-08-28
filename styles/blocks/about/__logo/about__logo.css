@@ -1,0 +1,10 @@
+.about__logo {
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    background-color: #000;
+    display: flex;
+}
