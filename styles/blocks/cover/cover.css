@@ -8,6 +8,6 @@
     background-position: center;
     position: relative;
     display: grid;
-    grid-template-columns: 1005px auto;
+    grid-template-columns: 1fr min-content;
     column-gap: 78px;
 }
